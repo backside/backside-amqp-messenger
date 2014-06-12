@@ -1,6 +1,6 @@
 {
   "name": "backside-amqp-messenger",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Messaging backend for backside powered by amqp",
   "main": "index.js",
   "scripts": {

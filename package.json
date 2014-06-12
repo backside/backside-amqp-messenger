@@ -1,0 +1,28 @@
+{
+  "name": "backside-amqp-messenger",
+  "version": "0.0.0",
+  "description": "Messaging backend for backside powered by amqp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/backside/backside-amqp-messenger.git"
+  },
+  "keywords": [
+    "backside",
+    "backside-messenger"
+  ],
+  "author": "addisonj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/backside/backside-amqp-messenger/issues"
+  },
+  "dependencies": {
+    "amqplib": "~0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.20.1"
+  }
+}
